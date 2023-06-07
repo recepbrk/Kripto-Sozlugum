@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anaFragment"
+        android:icon="@drawable/home"
+        android:title="" />
+    <item
+        android:id="@+id/terimFragment"
+        android:icon="@drawable/terms"
+        android:title=""
+         />
+    <item
+        android:id="@+id/formasyonFragment"
+        android:icon="@drawable/grapp"
+        android:title=""/>
+    <item
+        android:id="@+id/profilFragment"
+        android:icon="@drawable/user"
+        android:title=""
+       />
+</menu>

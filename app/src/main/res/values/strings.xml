@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">BUygulama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="giris">Mum grafikler fiyat yapılarının incelenmesinde en sık kullanılan teknik araçlardan biridir. Fiyatın hangi yönde hareket ettiğini belirleyebilmek amacıyla yüzyıllardır yatırımcılar ve tacirler tarafından kullanılırlar. Bu makalede en tanınmış mum grafik formasyonlarının bazılarından resimli örneklerle bahsedeceğiz.</string>
+    <string name="mum_grafik">Yatırımcıların bir grafik üzerinde ilgi alanlarına yönelik kullanabileceği çok sayıda mum formasyonu vardır. Bunlar günlük, dalgalı ve hatta daha uzun vadeli pozisyonlarda alım satımlar için kullanılabilir. Bazı mum formasyonları alıcılar ve satıcılar arasındaki denge hakkında bilgi sağlarken diğerleri dönüşü, devamlılığı ya da kararsızlığı gösteriyor olabilir.\n\n
+Mum formasyonlarının kendi başlarına bir al ya da sat sinyali olmadığını belirtmek önemlidir. Bunun yerine piyasaya bakmanın bir yolu ve yaklaşmakta olan bir fırsatın potansiyel göstergeleridir. Dolayısıyla bu formasyonları bağlam dahilinde değerlendirmek her zaman için daha faydalıdır. Bu bağlam, grafik üzerindeki teknik formasyonun bağlamı ya da daha geniş çapta piyasa koşulları ve diğer faktörler olabilir.</string>
+
+
+    <string name="hammer">Aşağı trendin en altında yer alan uzun bir alt fitile sahip mum çubuğudur ve alt fitil gövdenin en az iki katı büyüklüktedir.\n\n
+Çekiç, satış baskısının yüksek olmasına rağmen boğaların fiyatı açılışa yakın bir noktaya taşıdığı anlamına gelir. Çekiç kırmızı ya da yeşil olabilir fakat yeşil çekiçler daha güçlü bir boğa tepkisi anlamına gelebilir.</string>
+
+
+    <string name="inhamer">Tersine çekiç olarak da bilinir, çekice benzerdir fakat uzun fitil gövdenin altında olmak yerine üstündedir. Çekiçtekine benzer şekilde üst fitil gövdeden en az iki kat uzun olmalıdır.\n\n
+
+Ters çekiçler aşağı trendin en alt noktasında yer alır ve yukarı doğru potansiyel bir dönüşü gösterebilir. Üst fitil, fiyatın aşağı doğru hareketini sonlandırdığını fakat satıcıların fiyatı açılışa yaklaşacak kadar aşağı çekmeyi başardığını gösterir. Dolayısıyla ters çekiç, alıcıların yakın bir zamanda piyasanın kontrolünü ele geçirebileceğini gösterebilir. </string>
+
+
+    <string name="threewhite">Üç beyaz asker formasyonu, her biri kendinden önceki mumun gövde aralığında açılan ve bu mumun en yüksek noktasını aşan bir noktada kapanış yapan arka arkaya üç yeşil mumdan oluşur.\n\n
+
+İdealde, devam eden alım baskısının fiyatı yukarı çektiğini gösterecek şekilde bu mum bloklarının alt fitilleri olmamalıdır. Devamlılık ya da olası bir trend değişimi ihtimalini belirlemek için mumların boyutu ve fitillerin uzunluğu kullanılabilir.</string>
+
+    <string name="harami">Harami boğa uzun kırmızı bir mum ve bunu takip eden daha küçük yeşil bir mumdan oluşur. Yeşil mumun tamamı kendisinden önce gelen kırmızı mumun gövde aralığı içinde olmalıdır.\n\n
+
+Harami boğa iki ya da daha fazla gün içinde ortaya çıkar, satış ivmesinin yavaşladığını ve sona yaklaşmakta olabileceğini gösteren bir formasyondur.</string>
+    <string name="man">Asılı adam, çekicin ayı piyasasındaki dengidir. Bir yukarı trendin en sonunda yer alır, küçük bir gövdeye ve uzun bir alt fitile sahiptir.\n\n
+
+Alt fitil büyük bir satışın gerçekleştiğini fakat boğaların kontrolü geri alabildiğini ve fiyatları yükselttiğini gösterir. Bu dikkate alındığında, uzun bir yukarı trendin ardından gelen büyük satış, boğaların yakın zaman içinde piyasanın kontrolünü kaybedebileceği yönünde bir uyarı olabilir.</string>
+
+
+    <string name="star">Kayan yıldız, uzun bir üst fitil, kısa ya da olmayan bir alt fitil ve idealde alt fitile yakın bir gövdeden oluşur. Kayan yıldızın şekli ters çekice benzerdir fakat bu formasyon yukarı trendin sonunda ortaya çıkar.\n\n
+
+Piyasanın bir tepe noktasına ulaştığı fakat satıcıların kontrolü ele aldığı ve fiyatı aşağı çektiği anlamına gelir. Bazı yatırımcılar formasyonun onaylanması için sonraki birkaç mumun oluşmasını beklemeyi tercih eder.
+
+
+
+
+</string>
+    <string name="crows">Üç siyah karga formasyonu, kendinden önceki mumun gövde aralığında açılan ve bu mumun en düşük noktasının altında bir noktada kapanış yapan arka arkaya üç kırmızı mumdan oluşur.\n\n
+
+Üç beyaz askerin ayı piyasasındaki dengidir. İdealde, devam eden satış baskısının fiyatı aşağı çektiğini gösterecek şekilde bu mumlarda uzun üst fitiller olmamalıdır. Devamlılık ihtimalini belirlemek için mumların boyutu ve fitillerin uzunluğu kullanılabilir.</string>
+
+
+    <string name="haramibear">Harami ayı uzun yeşil bir mum ve bunun arkasından gelen kırmızı küçük bir mumdan oluşur. Kırmızı mumun tamamı kendisinden önceki yeşil mumun gövde aralığı içinde olmalıdır.\n\n
+
+Harami ayının oluşması iki ya da daha fazla gün alabilir, bir yukarı trendin sonunda yer alır ve alım baskısının azaldığını gösterebilir.</string>
+
+    <string name="dark">Kara bulut örtüsü formasyonu kırmızı bir mumdan oluşur. Bu mumun açılış noktası kendisinden önce gelen yeşil mumun kapanışından yukarıdadır. Kapanışı ise önceki mumun orta noktasından aşağıda yapar.\n\n
+
+Bu formasyona sıklıkla yüksek hacim eşlik eder, bu da ivmenin yukarı yönden aşağı yöne doğru değişmekte olduğunu gösterebilir. Yatırımcılar formasyonun doğrulanması için üçüncü kırmızı mumu beklemeyi tercih edebilir.</string>
+
+
+    <string name="rising">Bu formasyon yukarı trendde ortaya çıkar ve kısa gövdeli arka arkaya üç kırmızı mumdan sonra yukarı trend devam eder. İdealde kırmızı mumlar kendilerinden önceki mumların aralığını aşmamalıdır.\n\n
+
+Devamlılık büyük gövdeli yeşil bir mumla doğrulanır ve trend yönünün kontrolünün tekrar boğalara geçtiğini gösterir.</string>
+
+
+    <string name="doji">Açılış ve kapanış fiyatının aynı olması (ya da çok yakın olması) durumunda bir Doji oluşur. Fiyat açılışın üzerine ve altına hareket edebilir fakat kapanış açılışa yakın bir fiyatla olur. Dolayısıyla Doji, alım ve satım güçleri arasındaki bir kararsızlık noktasını gösterebilir. Yine de Dojilerin yorumlanması bağlamla yakından ilgilidir.\n\n
+
+Açılış/kapanış çizgisinin nereye düştüğüne göre bir Doji şu şekilde tanımlanabilir:\n\n
+
+
+
+Mezartaşı Doji – Uzun bir üst fitile ve alt uca yakın bir açılış/kapanışa sahip ayı dönüş mumu. </string>
+
+    <string name="doji_end">Dojinin orijinal tanıma göre açılış ve kapanış birebir aynı olmalıdır. Fakat açılış ve kapanış aynı olmaz bunun yerine çok yakın olursa ne olur? Buna dönen tepe/fırıldak denir. Fakat kripto para piyasaları çok oynak olduğu için tam bir Doji nadiren görülür. Dolayısıyla dönen tepe formasyonu Doji ile dönüşümlü olarak kullanılır.</string>
+
+    <string name="grafik">Teknik analiz (TA) kullanarak finansal piyasaları analiz etmenin birçok farklı yolu vardır. Bazı yatırımcılar indikatörleri ve osilatörleri kullanırken diğerleri analizlerini yalnızca fiyat hareketlerine dayandırır.\n\n
+Mum grafikler belirli bir zaman aralığı için fiyat hareketlerini gösterir. Altta yatan fikir, bir varlığın fiyat hareketlerinin geçmişi incelendiğinde tekrarlayan yapıların ortaya çıkabileceğidir. Mum grafik formasyonları grafiği çizilen varlıkla ilgili faydalı bilgiler sunabilir ve birçok yatırımcı bu bilgilerden hisse senedi, forex ve kripto para piyasaları için faydalanmaya çalışır.\n\n
+Bu formasyonların en yaygın örneklerinden bazılarına genel olarak klasik grafik formasyonları adı verilir. Bunlar en tanınmış formasyonlardan bazılarıdır ve birçok yatırımcı tarafından güvenilir alım satım göstergeleri olarak kabul edilir. Peki bunun nedeni nedir? Alım satım ve yatırım yapmak diğerlerinin gözünden kaçan bir fırsatı yakalamakla ilgili değil midir? Öyledir, fakat aynı zamanda topluluk psikolojisiyle de ilgilidir. Teknik formasyonlar herhangi bir bilimsel prensibe ya da fizik yasasına bağlı olmadığı için, etkinlikleri büyük oranda bu formasyonları dikkate alan piyasa katılımcılarının sayısına bağlıdır.\n\n</string>
+
+
+    <string name="bayrak">Bayrak, uzun vadeli trendin aksi yönünde bir konsolidasyon alanıdır ve keskin bir fiyat hareketinden sonra ortaya çıkar. Direğe asılmış bir bayrağa benzer şekilde gözükür. Burada direk ani hareket ve bayrak da konsolidasyon alanıdır.\n\n
+
+Bayraklar trendin devam etme potansiyelini belirlemek için kullanılabilir. Formasyona eşlik eden hacim de önemlidir. İdealde ani hareket yüksek hacimle gerçekleşmeli ve konsolidasyon evresi daha düşük, azalan bir hacme sahip olmalıdır.\n\n</string>
+    <string name="üçgen">Üçgen, kesişen fiyat aralıkları ve genellikle bunu takiben trendin devam etmesiyle kendini gösteren bir grafik formasyonudur. Üçgenin kendisi, altta yatan trenddeki bir duraksamayı gösterir fakat bir geri dönüşü ya da devamlılığı işaret ediyor olabilir.
+
+</string>
+
+    <string name="triancle_y">Yükselen üçgen, yatay bir direnç bölgesinin olması ve daha yüksek dip noktalar serisi üzerine yükselen bir trend çizgisinin çizilmesiyle oluşur. En temelde, fiyatın yatay dirençten sektiği her sefer alıcılar daha yüksek fiyatlardan giriş yapar ve daha yüksek dip noktalar oluşur. Direnç alanında gerginlik arttıkça fiyat en nihayetinde bu direnci kırmayı başarırsa yüksek hacimle hızlı bir yükseliş gösterme eğiliminde olur. Dolayısıyla yükselen üçgen bir boğa formasyonudur.</string>
+
+
+    <string name="triancle_a">Alçalan üçgen, yükselen üçgenin tersidir. Yatay bir destek alanı ve daha düşük tepe noktaları serisi üzerine alçalan bir trend çizgisinin çizilmesiyle oluşur. Yükselen üçgende olduğu gibi, fiyatın yatay destek alanından sektiği her sefer satıcılar daha düşük fiyatlardan giriş yapar ve daha düşük tepe noktaları oluşur. Genellikle fiyat yatay destek noktasını kırmayı başarırsa, yüksek hacimle hızlı bir düşüş görülür. Bu nedenle alçalan üçgen bir boğa formasyonudur.
+</string>
+
+    <string name="simetrik">Simetrik üçgen alçalan bir üst trend çizgisi ve yükselen bir alt trend çizgisi ile oluşturulur ve her iki çizginin eğimi hemen hemen aynıdır. Simetrik üçgen, büyük oranda bağlama (yani altta yatan trende) dayanarak yorumlandığı için bir boğa ya da ayı formasyonu değildir. Kendi başına, yalnızca bir konsolidasyon dönemini temsil eden nötr bir formasyondur.</string>
+
+
+    <string name="yükselen_takoz">Yükselen takoz bir ayı geri dönüş formasyonudur. Fiyat sıkıştıkça yukarı trendin gitgide zayıfladığını ve fiyatın sonunda alt trend çizgisini kırabileceğini gösterir.
+</string>
+
+    <string name="alçalan_takoz">Alçalan takoz bir boğa geri dönüş formasyonudur. Fiyat düştükçe sıkışmanın arttığını ve trend çizgilerinin daraldığını gösterir. Alçalan takoz genellikle yukarı yönlü bir sıçramaya neden olur.
+
+</string>
+
+    <string name="takoz">Takoz, kesişen trend çizgileri ile oluşturulur ve fiyat hareketlerinin sıkıştığını gösterir. Bu durumda trend çizgileri, tepe ve diplerin farklı oranlarda yükseldiğini ya da düştüğünü gösterir.\n\n
+Altta yatan trend zayıfladığı için bir geri dönüşün gerçekleşmek üzere olduğu anlamına gelebilir. Flama formasyonuna, düşen hacim eşlik edebilir ve bu da trendin momentum kaybettiğini gösterebilir.\n\n</string>
+
+
+    <string name="ikilitepe">İkili tepe ve ikili dip, piyasanın bir “M” ya da bir “W” şeklinde hareket etmesiyle ortaya çıkar. İlgili fiyat noktalarının birebir aynı olmasa fakat birbirine yakın olsa bile bu formasyonların geçerli olacağını belirtmek önemlidir.\n\n
+
+Genellikle ikili dip ya da tepe noktalarına formasyonun geri kalanından daha yüksek bir hacim eşlik etmelidir.\n\n</string>
+
+    <string name="ikilitepee">İkili tepe, fiyatın iki kez tepe yaptığı ama ikinci denemede daha yukarıya çıkış yapamadığı bir ayı dönüş formasyonudur. Aynı zamanda, iki tepe noktası arasındaki geri çekilme orta seviyede olmalıdır. Fiyatın, tepe noktalar arasındaki geri çekilmeden daha düşük seviyelere inmesiyle formasyon doğrulanır.</string>
+
+    <string name="dip">İkili dip, fiyatın iki kez dip yaptığı ve en nihayetinde daha yüksek bir tepeyle devam ettiği bir boğa dönüş formasyonudur. İkili tepeye benzer şekilde, iki dip noktası arasındaki geri çekilme orta seviyede olmalıdır. Fiyatın, iki dip nokta arasındaki geri çekilmeden daha yüksek seviyelere çıkmasıyla formasyon doğrulanır.</string>
+
+
+    <string name="omuz">Omuz baş omuz, bir taban çizgisinden (boyun çizgisi) ve üç tepeden oluşan bir ayı dönüş formasyonudur. Yanlardaki iki tepe yaklaşık aynı fiyat seviyesinde, ortadaki tepe ise diğer ikisinden yüksek olmalıdır. Fiyatın boyun çizgisi desteğini kırmasıyla formasyon doğrulanır.</string>
+
+
+    <string name="t_omuz">İsminden de anlaşılacağı gibi omuz baş omuzun tersidir, dolayısıyla da bir boğa geri dönüşünü gösterir. Ters omuz baş omuz, bir düşüş trendinde fiyatın daha düşük bir dip yapması daha sonra sekmesi ve yaklaşık ilk dip seviyesinde destek bulmasıyla oluşur. Fiyatın boyun çizgisi direncini kırması ve yükselmeye devam etmesiyle formasyon doğrulanır.</string>
+
+
+    <string name="account">Account</string>
+    <string name="cart">Cart</string>
+    <string name="explore">Explore</string>
+    <string name="categories">Categories</string>
+    <string name="best_selling">Best Selling</string>
+    <string name="see_all">See all</string>
+    <string name="new_tag">New</string>
+
+    <string name="price">$%1$s</string>
+    <string name="featured_brands">Featured Brands</string>
+    <string name="recommended">Recommended</string>
+    <string name="total">Total</string>
+    <string name="checkout">Checkout</string>
+    <string name="itemimagedescription">itemImageDescription</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="shipping_address">Shipping Address</string>
+    <string name="order_history">Order History</string>
+    <string name="track_order">Track Order</string>
+    <string name="cards">Cards</string>
+    <string name="notifications">Notifications</string>
+    <string name="logout">LogOut</string>
+    <string name="card_holder">Card Holder</string>
+    <string name="expiry">Expiry</string>
+    <string name="newButton">New</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="details">Details</string>
+    <string name="reviews">Reviews</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="tell_us_your_experience">Tell us your experience</string>
+    <string name="send">Send</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_in_to_continue">Sign in to Continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_with_facebook">Sign In with Facebook</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="no_reviews">No Reviews</string>
+</resources>
