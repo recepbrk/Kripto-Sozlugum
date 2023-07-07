@@ -1,5 +1,9 @@
 # Kripto-Sözlüğüm
 
+I would like to tell you about a new project: My Crypto Dictionary. This application aims to teach cryptocurrency prices, terms, and basic formations. With a user-friendly interface, this app will be an excellent resource for those who want to step into the world of cryptocurrencies.
+
+Stay tuned for updates!
+
 
 # Screenshots
 
