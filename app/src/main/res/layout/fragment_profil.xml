@@ -12,24 +12,6 @@
         android:layout_height="wrap_content"
         android:paddingBottom="8dp">
 
-        <Button
-            android:id="@+id/edit_profile"
-            android:layout_width="150dp"
-            android:layout_height="50dp"
-            android:layout_marginTop="32dp"
-            android:backgroundTint="#FFFFFF"
-            android:elevation="16dp"
-            android:fontFamily="@font/poppins"
-            android:text="Profili Düzenle "
-            android:textColor="#000000"
-            android:textSize="12sp"
-            android:textStyle="normal"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.491"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.266" />
 
         <View
             android:layout_width="match_parent"
@@ -52,22 +34,6 @@
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/memoji" />
 
-
-        <TextView
-            android:id="@+id/accountProfileEmail"
-            style="@style/TextViewRegular"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/poppins"
-            android:gravity="center"
-            android:text="recepgzelr@gmail.com"
-            android:textColor="@color/white"
-            android:textSize="16dp"
-            app:layout_constraintBottom_toTopOf="@+id/linearLayout"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/accountProfileName"
-            app:layout_constraintVertical_bias="0.0" />
 
         <LinearLayout
             android:id="@+id/linearLayout"

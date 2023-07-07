@@ -6,15 +6,11 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
-import com.example.buygulama.Activity.EditProfileActivity
-import com.example.buygulama.Activity.MainActivity
 import com.example.buygulama.R
 import com.example.buygulama.Activity.SSSActivity
 import kotlinx.android.synthetic.main.fragment_profil.*
-import kotlinx.android.synthetic.main.fragment_thind_screen.*
 
 class ProfilFragment : Fragment() {
 
@@ -32,8 +28,7 @@ class ProfilFragment : Fragment() {
 
         val intent = Intent()
         val email = intent.getStringExtra("email")
-        val emailTextView: TextView = view.findViewById(R.id.accountProfileEmail)
-        emailTextView.text = "email +$email"
+
 
 
 
@@ -77,9 +72,8 @@ class ProfilFragment : Fragment() {
                 )
             )
         }
-        edit_profile.setOnClickListener {
-            startActivity(Intent(context, EditProfileActivity::class.java))
-        }
+
+
 
         faq.setOnClickListener {
             val intent = Intent(requireContext(), SSSActivity::class.java)
@@ -89,7 +83,7 @@ class ProfilFragment : Fragment() {
             val shareIntent: Intent = Intent(Intent.ACTION_SEND)
             shareIntent.setType("text/plain")
             shareIntent.putExtra(Intent.EXTRA_SUBJECT, "Insert Subject here")
-            val app_url = " https://play.google.com/store/apps/details?id=my.example.javatpoint"
+            val app_url = ""
             shareIntent.putExtra(Intent.EXTRA_TEXT, app_url)
             startActivity(Intent.createChooser(shareIntent, "Share via"))
         }

@@ -27,7 +27,7 @@ class ForgotPasswordActivity : AppCompatActivity() {
             auth.sendPasswordResetEmail(mail)
                 .addOnCompleteListener{ task->
                     Toasty.success(this, "Şifre Sıfırlama Gönderildi !", Toast.LENGTH_SHORT, true).show();
-                    val intent= Intent(applicationContext,GirisActivity::class.java)
+                    val intent= Intent(applicationContext,Login::class.java)
                     startActivity(intent)
                     finish()
                 }

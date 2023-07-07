@@ -76,7 +76,7 @@ class FormasyonFragment : Fragment() {
         }
         takoz.setOnClickListener {
 
-            val intent = Intent(requireContext(), Takozz::class.java)
+            val intent = Intent(requireContext(), Wedge::class.java)
             startActivity(intent)
 
         }

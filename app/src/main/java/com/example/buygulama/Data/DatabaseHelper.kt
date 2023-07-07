@@ -4,7 +4,7 @@ import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 
-class VeritabaniYardimcisi(context: Context) : SQLiteOpenHelper(context, "mycrypto.db", null, 1) {
+class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, "mycrypto.db", null, 1) {
     override fun onCreate(db: SQLiteDatabase?) {
         db?.execSQL(
             "CREATE TABLE IF NOT EXISTS \"kelimeler\" (\n" +

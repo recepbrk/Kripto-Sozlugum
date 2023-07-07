@@ -25,24 +25,19 @@ class AnaFragment : Fragment(), Adapter.MyClickListener {
     private lateinit var recyclerView: RecyclerView
     private lateinit var PodcastList: ArrayList<PodcastData>
     private lateinit var adapter: Adapter
-
     private lateinit var webView: WebView
     private val URL = "https://tr.tradingview.com/chart/?symbol=BITSTAMP%3ABTCUSD"
-
     private lateinit var webview_haber: WebView
     private val HABER_URL = "https://tr.tradingview.com/markets/cryptocurrencies/news/"
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
 
-    }
 
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        // Inflate the layout for this fragment
+
         return inflater.inflate(R.layout.fragment_ana, container, false)
     }
 
@@ -65,13 +60,7 @@ class AnaFragment : Fragment(), Adapter.MyClickListener {
 
         recyclerView = view.findViewById(R.id.recyclerview)
         PodcastList = ArrayList()
-        PodcastList.add(
-            PodcastData(
-                R.drawable.mg, "Merkeziyetsiz Gelecek",
-
-                "Doğancan Ertaş, Furkan Saatcioğlu"
-            )
-        )
+        PodcastList.add(PodcastData( R.drawable.mg, "Merkeziyetsiz Gelecek",  "Doğancan Ertaş, Furkan Saatcioğlu"))
         PodcastList.add(PodcastData(R.drawable.km, "Kripto Mevsimi", "Kerem ve Tufan"))
         PodcastList.add(PodcastData(R.drawable.fo, "Finansal Özgürlük", "Finansal Özgürlük\n"))
         PodcastList.add(PodcastData(R.drawable.podcast, "Borsada bi' Başına", "İlker"))
@@ -80,6 +69,9 @@ class AnaFragment : Fragment(), Adapter.MyClickListener {
         recyclerView.setHasFixedSize(true)
         recyclerView.layoutManager =
             LinearLayoutManager(context, LinearLayoutManager.HORIZONTAL, false)
+
+
+
 
 
         webView = view.findViewById<WebView>(R.id.webview)

@@ -32,7 +32,7 @@
     </fragment>
     <activity
         android:id="@+id/girisActivity"
-        android:name="com.example.buygulama.Activity.GirisActivity"
+        android:name="com.example.buygulama.Activity.Login"
         android:label="activity_giris"
         tools:layout="@layout/activity_giris" />
 </navigation>

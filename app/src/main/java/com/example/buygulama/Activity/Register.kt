@@ -8,7 +8,7 @@ import com.example.buygulama.databinding.ActivityKayitBinding
 import com.google.firebase.auth.FirebaseAuth
 import es.dmoral.toasty.Toasty
 
-class KayitActivity : AppCompatActivity() {
+class Register : AppCompatActivity() {
     private lateinit var binding: ActivityKayitBinding
     private lateinit var firebaseAuth: FirebaseAuth
 
@@ -30,7 +30,7 @@ class KayitActivity : AppCompatActivity() {
 
                     firebaseAuth.createUserWithEmailAndPassword(email, pass).addOnCompleteListener {
                         if (it.isSuccessful) {
-                            startActivity(Intent(this, GirisActivity::class.java))
+                            startActivity(Intent(this, Login::class.java))
                         } else {
                             Toasty.error(this, it.exception.toString(), Toast.LENGTH_SHORT, true)
                                 .show();

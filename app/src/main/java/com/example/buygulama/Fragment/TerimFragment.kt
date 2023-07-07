@@ -6,20 +6,20 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.buygulama.Adapter.KelimelerAdapter
+import com.example.buygulama.Adapter.WordAdapter
 import com.example.buygulama.Data.DatabaseCopyHelper
-import com.example.buygulama.Data.Kelimeler
-import com.example.buygulama.Data.Kelimelerdao
-import com.example.buygulama.Data.VeritabaniYardimcisi
+import com.example.buygulama.Data.WordData
+import com.example.buygulama.Data.WordDAO
+import com.example.buygulama.Data.DatabaseHelper
 import com.example.buygulama.R
 import kotlinx.android.synthetic.main.fragment_terim.*
 
 
 class TerimFragment : Fragment() {
 
-    private lateinit var kelimelerListe: ArrayList<Kelimeler>
-    private lateinit var adapter: KelimelerAdapter
-    private lateinit var vt: VeritabaniYardimcisi
+    private lateinit var wordList: ArrayList<WordData>
+    private lateinit var adapter: WordAdapter
+    private lateinit var vt: DatabaseHelper
     lateinit var searchView: android.widget.SearchView
     override fun onCreate(savedInstanceState: Bundle?) {
         veritabaniKopyala()
@@ -45,13 +45,13 @@ class TerimFragment : Fragment() {
         rv.setHasFixedSize(true)
         rv.layoutManager = LinearLayoutManager(requireContext())
 
-        vt = VeritabaniYardimcisi(requireContext())
+        vt = DatabaseHelper(requireContext())
 
-        kelimelerListe = Kelimelerdao().tumKelimeler(vt)
+        wordList = WordDAO().tumKelimeler(vt)
 
 
 
-        adapter = KelimelerAdapter(requireContext(), kelimelerListe)
+        adapter = WordAdapter(requireContext(), wordList)
 
         rv.adapter = adapter
         val searchView = view.findViewById<android.widget.SearchView>(R.id.searchView)
@@ -87,9 +87,9 @@ class TerimFragment : Fragment() {
     }
 
     fun arama(aramaKelime: String) {
-        kelimelerListe = Kelimelerdao().aramaYap(vt, aramaKelime)
+        wordList = WordDAO().aramaYap(vt, aramaKelime)
 
-        adapter = KelimelerAdapter(requireContext(), kelimelerListe)
+        adapter = WordAdapter(requireContext(), wordList)
 
         rv.adapter = adapter
     }

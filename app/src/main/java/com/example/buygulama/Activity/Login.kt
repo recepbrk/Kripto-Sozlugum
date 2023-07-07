@@ -5,13 +5,12 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.EditText
 import android.widget.Toast
-import com.example.buygulama.Fragment.ProfilFragment
 import com.example.buygulama.R
 import com.example.buygulama.databinding.ActivityGirisBinding
 import com.google.firebase.auth.FirebaseAuth
 import es.dmoral.toasty.Toasty
 
-class GirisActivity : AppCompatActivity() {
+class Login : AppCompatActivity() {
 
     private lateinit var binding: ActivityGirisBinding
     private lateinit var firebaseAuth: FirebaseAuth
@@ -23,7 +22,7 @@ class GirisActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.kayTTxt.setOnClickListener {
-            startActivity(Intent(this, KayitActivity::class.java))
+            startActivity(Intent(this, Register::class.java))
         }
 
 

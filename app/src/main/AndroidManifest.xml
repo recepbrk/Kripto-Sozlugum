@@ -20,10 +20,12 @@
             android:name=".Activity.ForgotPasswordActivity"
             android:exported="false" />
         <activity
-            android:name=".Activity.KayitActivity"
+            android:name=".Activity.Register"
+            android:windowSoftInputMode="adjustNothing"
             android:exported="false" />
         <activity
-            android:name=".Activity.GirisActivity"
+            android:name=".Activity.Login"
+            android:windowSoftInputMode="adjustNothing"
             android:exported="false" />
         <activity
             android:name=".Activity.MainActivity"
@@ -32,7 +34,7 @@
             android:name=".Activity.SSSActivity"
             android:exported="false" />
         <activity
-            android:name=".Activity.Bildir_Activity"
+            android:name=".Activity.Report"
             android:exported="false" />
         <activity
             android:name=".Activity.omuz"
@@ -41,7 +43,7 @@
             android:name=".Activity.ikitepe"
             android:exported="false" />
         <activity
-            android:name=".Activity.Takozz"
+            android:name=".Activity.Wedge"
             android:exported="false" />
         <activity
             android:name=".Activity.ucgen"
@@ -59,14 +61,14 @@
             android:name=".Activity.boga_donus"
             android:exported="false" />
         <activity
-            android:name=".Activity.DetayActivity"
+            android:name=".Activity.DetailsActivity"
             android:exported="false" />
+
         <activity
             android:name=".Activity.OnboardingActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
