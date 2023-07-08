@@ -2,6 +2,8 @@
 
 I would like to tell you about a new project: My Crypto Dictionary. This application aims to teach cryptocurrency prices, terms, and basic formations. With a user-friendly interface, this app will be an excellent resource for those who want to step into the world of cryptocurrencies.
 
+Don't forget give a star. ⭐
+
 <table>
         <tr>
             <td>
@@ -76,3 +78,32 @@ I would like to tell you about a new project: My Crypto Dictionary. This applica
 
 
 
+
+## Find this repository useful?
+
+Don't forget give a star. ⭐
+
+
+```
+  MIT License
+
+Copyright (c) 2023 Recep Güzel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
