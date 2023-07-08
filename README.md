@@ -79,7 +79,8 @@ Don't forget give a star. ⭐
 
 ## Application Videos
 
-https://github.com/recepbrk/Kripto-Sozlugum/assets/73459365/852b9381-a1a6-4137-88be-2af06e42cfb7
+https://github.com/recepbrk/Kripto-Sozlugum/assets/73459365/322ed653-2555-495d-9327-17805fa3b65c
+
 
 
 
