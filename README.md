@@ -4,62 +4,29 @@ I would like to tell you about a new project: My Crypto Dictionary. This applica
 
 Don't forget give a star. ⭐
 
-<table>
-        <tr>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image1.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Splash Screen</p>
-            </td>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image2.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Onboarding Screen 1</p>
-            </td>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image3.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Onboarding Screen 2</p>
-            </td>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image4.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Onboarding Screen 3</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image5.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Sign Up Screen</p>
-            </td>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image7.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Sign In Screen</p>
-            </td>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image8.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Home Page Screen</p>
-            </td>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image9.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Term Screen</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image10.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Term Details Screen</p>
-            </td>
-           <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image11.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Formation Screen</p>
-            </td>
-           <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image12.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Formation Details Screen</p>
-            </td>
-           <td>
-                <img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image13.jpg" alt="Telefon Ekran Görüntüsü">
-                <p>Profile Screen</p>
-            </td>
-        </tr>
-    </table>
+# Screenshots
+
+<p align="center">
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image1.jpg" width="20%"/>
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image2.jpg" width="20%"/>
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image3.jpg" width="20%"/>
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image4.jpg" width="20%"/>
+
+</p>
+<p align="center">
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image5.jpg" width="20%"/> 
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image7.jpg" width="20%"/>
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image8.jpg" width="20%"/> 
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image9.jpg" width="20%"/>
+</p>
+</p>
+<p align="center">
+
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image10.jpg" width="20%"/>
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image11.jpg" width="20%"/>
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image12.jpg" width="20%"/>
+<img src="https://github.com/recepbrk/Kripto-Sozlugum/blob/master/app/src/main/java/com/example/buygulama/Screenshot/image13.jpg" width="20%"/>
+</p>
 
 
 # Application Information
