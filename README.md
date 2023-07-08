@@ -77,13 +77,18 @@ Don't forget give a star. ⭐
 - Come on, step into the cryptocurrency world and learn more about cryptocurrency terms and patterns using our app!
 
 
+## Application Videos
+
+https://github.com/recepbrk/Kripto-Sozlugum/assets/73459365/852b9381-a1a6-4137-88be-2af06e42cfb7
+
+
 
 
 ## Find this repository useful?
 
 Don't forget give a star. ⭐
 
-
+## LICENSE
 ```
   MIT License
 
